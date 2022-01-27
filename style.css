@@ -1,0 +1,58 @@
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: lightgray;
+}
+
+#logo
+{
+	padding: 15px;
+	background-color: red;
+}
+	
+#footer
+{
+	background-color: red;
+	text-align: center;
+}
+body
+{
+	background-color: darkgray; 
+	font-family: Verdana;
+	font-size: 20px;
+}
+
+h1
+{
+	font-size: 48px;
+	color: white !important;
+	text-align: center;
+}
+
+h2
+{
+	margin-left: 15px;
+}
+
+a:link
+{
+	color: mediumblue;
+}
+
+a:visited
+{
+	color: darkorchid;
+}
+
+a:hover
+{
+	color: red;
+}
+
+p
+{
+	text-align: center;
+}
+
